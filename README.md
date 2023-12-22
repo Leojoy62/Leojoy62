@@ -2,9 +2,13 @@ Greetings,
 Myself Leonard Joy Mridha. I have been working with MERN stack and developing projects for the last 1 year. I am a tech enthusiast. I always try to keep myself updated with the latest technology trends. I love to read news related to current technology. I interact with the programming and technological community via social media. I always try to share my thoughts and acknowledge other people's opinions relevant to current technology. "QUICK ADAPTIBILITY" is my strength.
 
 Highlights:
+
 	Proficient in the MERN stack, with a focus on building end-to-end web applications.
+
 	Strong problem-solving skills and attention to detail.
+
 	Collaborative team player with cross-functional experience.
+
 	Committed to continuous learning and staying updated with industry trends.
 
 I have done so many projects. Few of them are below:

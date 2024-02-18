@@ -1,5 +1,5 @@
 Greetings,
-Myself Leonard Joy Mridha. I am a professional Full Stack Engineer (MERN Stack). I always try to keep myself updated with the latest technology trends. I love to read news related to current technology. I interact with the programming and technological community via social media. I always try to share my thoughts and acknowledge other people's opinions relevant to current technology. "QUICK ADAPTIBILITY" is my strength.
+I am Leonard Joy Mridha. I am a professional Full Stack Engineer (MERN Stack). I always try to keep myself updated with the latest technology trends. I love to read news related to current technology. I interact with the programming and technological community via social media. I always try to share my thoughts and acknowledge other people's opinions relevant to current technology. "QUICK ADAPTIBILITY" is my strength.
 
 Highlights:
 

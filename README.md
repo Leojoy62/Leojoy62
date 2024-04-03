@@ -51,3 +51,7 @@ I have done so many projects. Few of them are below:
 5. Next-Crud:
    This is a simple todo app using Next.js.
    You can explore it live by clicking on the following link: https://next-crud-pi-nine.vercel.app/
+
+6. Blog app:
+   This is a simple blog app. User can create,update and delete blogs and comments if they are the owner of the blog and comment.
+   You can explore the app live here: https://blogapp-3121b.web.app/

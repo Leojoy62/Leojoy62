@@ -13,8 +13,7 @@ Portfolio: https://leojoy.vercel.app/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leojoy62&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leojoy62&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Leojoy62&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

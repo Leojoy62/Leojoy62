@@ -44,9 +44,9 @@ I have done so many projects. Few of them are below:
 
 <h3><b>2. ChatCave:</b></h3>
   A real-time chatting application.<br>
-  Key Technologies Used:
+
 Front-end: React.js, Axios, React Router, Zustand, Socket.io client, React-hot-toast, react-icons, Tailwind CSS. <br>
-Back-end: Node.js, Express.js, Mongoose, JWT, Socket.io. Bcrypt, Cookie-Parser, dotenv.
+Back-end: Node.js, Express.js, Mongoose, JWT, Socket.io. Bcrypt, Cookie-Parser, dotenv. <br>
 Live: https://chat-cave.onrender.com/
 <h3><b>3. CarFixer:</b></h3>
    From this website, people can get an appointment for servicing their cars. They can also buy different parts for their cars with any type of service. Key Technologies Used: Front-end: React.js, React Router, Firebase Back-end: Node.js, Express.js, JWT, MongoDB. 

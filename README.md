@@ -30,13 +30,9 @@ Portfolio: https://leojoy.vercel.app/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### Highlights:
-
 - ##### Proficient in the MERN stack, with a focus on building end-to-end web applications.
-
 - ##### Strong problem-solving skills and attention to detail.
-
 - ##### Collaborative team player with cross-functional experience.
-
 - ##### Committed to continuous learning and staying updated with industry trends.
 
 ### Projects:
@@ -44,9 +40,9 @@ I have done so many projects. Few of them are below:
 
 #### 1. YourChef:
 A full-stack restaurant management application. <br>
-Front-end: React.js, Axios, React Router, Tanstack Query, Firebase,Tailwind CSS <br>
-Back-end: Node.js, Express.js, MongoDB, JWT. Payment Integration: Stripe <br>
-Project Highlights: <br>
+<b>Front-end:</b> React.js, Axios, React Router, Tanstack Query, Firebase,Tailwind CSS <br>
+<b>Back-end:</b> Node.js, Express.js, MongoDB, JWT. Payment Integration: Stripe <br>
+<b>Project Highlights:</b> <br>
 Designed and implemented an intuitive user interface for customers to browse menus, place orders, and make reservations, enhancing the overall user experience. Integrated Stripe for secure and efficient online payment processing. Utilized Tan Stack Query to optimize data 
 fetching. Implemented Firebase to manage user authentication. <br>
 You can explore it live by clicking on the following link: https://your-chef-74f95.web.app/

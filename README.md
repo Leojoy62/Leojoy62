@@ -49,13 +49,13 @@ You can explore it live by clicking on the following link: https://your-chef-74f
 
 #### 2. ChatCave:
 A real-time chatting application.<br>
-Front-end: React.js, Axios, React Router, Zustand, Socket.io client, React-hot-toast, react-icons, Tailwind CSS. <br>
-Back-end: Node.js, Express.js, Mongoose, JWT, Socket.io. Bcrypt, Cookie-Parser, dotenv. <br>
+<b>Front-end:</b> React.js, Axios, React Router, Zustand, Socket.io client, React-hot-toast, react-icons, Tailwind CSS. <br>
+<b>Back-end:</b> Node.js, Express.js, Mongoose, JWT, Socket.io. Bcrypt, Cookie-Parser, dotenv. <br>
 Live: https://chat-cave.onrender.com/
 
 #### 3. CarFixer:
 From this website, people can get an appointment for servicing their cars. They can also buy different parts for their cars with any type of service. <br>
-Front-end: React.js, React Router, Firebase Back-end: Node.js, Express.js, JWT, MongoDB. <br>
+<b>Front-end:</b> React.js, React Router, Firebase Back-end: Node.js, Express.js, JWT, MongoDB. <br>
 Project Highlights: <br>
 Users can easily search for their desired services and filter services on a price basis. Easy to place orders. <br>
 You can explore the site live by clicking on the following link: https://genius-car-96391.web.app/

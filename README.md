@@ -24,24 +24,20 @@ Portfolio: https://leojoy.vercel.app/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leojoy62&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Leojoy62&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h3><b>Highlights:</b></h3>
+### Highlights:
 
-	Proficient in the MERN stack, with a focus on building end-to-end web applications.
+##### Proficient in the MERN stack, with a focus on building end-to-end web applications.
 
-	Strong problem-solving skills and attention to detail.
+##### Strong problem-solving skills and attention to detail.
 
-	Collaborative team player with cross-functional experience.
+##### Collaborative team player with cross-functional experience.
 
-	Committed to continuous learning and staying updated with industry trends.
+##### Committed to continuous learning and staying updated with industry trends.
 
  
 I have done so many projects. Few of them are below:

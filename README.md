@@ -4,7 +4,8 @@ I am <b>Leonard Joy Mridha</b> , a professional Full Stack Engineer (MERN Stack)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/leojoy62) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leojoy62) 
 
-Portfolio: https://leojoy.vercel.app/
+## Portfolio Site: 
+Follow the link: https://leojoy.vercel.app/
 
 
 

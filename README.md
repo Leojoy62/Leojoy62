@@ -31,24 +31,24 @@ Portfolio: https://leojoy.vercel.app/
 
 ### Highlights:
 
-##### Proficient in the MERN stack, with a focus on building end-to-end web applications.
+- ##### Proficient in the MERN stack, with a focus on building end-to-end web applications.
 
-##### Strong problem-solving skills and attention to detail.
+- ##### Strong problem-solving skills and attention to detail.
 
-##### Collaborative team player with cross-functional experience.
+- ##### Collaborative team player with cross-functional experience.
 
-##### Committed to continuous learning and staying updated with industry trends.
+- ##### Committed to continuous learning and staying updated with industry trends.
 
 ### Projects:
 I have done so many projects. Few of them are below:
 
 #### 1. YourChef:
-A full-stack restaurant management application. 
-Front-end: React.js, Axios, React Router, Tanstack Query, Firebase,Tailwind CSS 
-Back-end: Node.js, Express.js, MongoDB, JWT. Payment Integration: Stripe 
-Project Highlights: 
+A full-stack restaurant management application. <br>
+Front-end: React.js, Axios, React Router, Tanstack Query, Firebase,Tailwind CSS <br>
+Back-end: Node.js, Express.js, MongoDB, JWT. Payment Integration: Stripe <br>
+Project Highlights: <br>
 Designed and implemented an intuitive user interface for customers to browse menus, place orders, and make reservations, enhancing the overall user experience. Integrated Stripe for secure and efficient online payment processing. Utilized Tan Stack Query to optimize data 
-fetching. Implemented Firebase to manage user authentication.
+fetching. Implemented Firebase to manage user authentication. <br>
 You can explore it live by clicking on the following link: https://your-chef-74f95.web.app/
 
 #### 2. ChatCave:
@@ -58,10 +58,10 @@ Back-end: Node.js, Express.js, Mongoose, JWT, Socket.io. Bcrypt, Cookie-Parser, 
 Live: https://chat-cave.onrender.com/
 
 #### 3. CarFixer:
-From this website, people can get an appointment for servicing their cars. They can also buy different parts for their cars with any type of service.
-Front-end: React.js, React Router, Firebase Back-end: Node.js, Express.js, JWT, MongoDB. 
-Project Highlights: 
-Users can easily search for their desired services and filter services on a price basis. Easy to place orders.
+From this website, people can get an appointment for servicing their cars. They can also buy different parts for their cars with any type of service. <br>
+Front-end: React.js, React Router, Firebase Back-end: Node.js, Express.js, JWT, MongoDB. <br>
+Project Highlights: <br>
+Users can easily search for their desired services and filter services on a price basis. Easy to place orders. <br>
 You can explore the site live by clicking on the following link: https://genius-car-96391.web.app/
 
 

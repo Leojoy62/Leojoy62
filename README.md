@@ -29,13 +29,13 @@ Portfolio: https://leojoy.vercel.app/
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### Highlights:
+## Highlights:
 - ##### Proficient in the MERN stack, with a focus on building end-to-end web applications.
 - ##### Strong problem-solving skills and attention to detail.
 - ##### Collaborative team player with cross-functional experience.
 - ##### Committed to continuous learning and staying updated with industry trends.
 
-### Projects:
+## Projects:
 I have done so many projects. Few of them are below:
 
 #### 1. YourChef:

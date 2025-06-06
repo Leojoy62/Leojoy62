@@ -31,7 +31,7 @@ Follow the link: https://leojoy.vercel.app/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Highlights:
-- ##### Proficient in the MERN stack, with a focus on building end-to-end web applications.
+- ##### Proficient in the Python | Django | React | Next.JS | Express | MongoDB | Postgre SQL, with a focus on building end-to-end web applications.
 - ##### Strong problem-solving skills and attention to detail.
 - ##### Collaborative team player with cross-functional experience.
 - ##### Committed to continuous learning and staying updated with industry trends.

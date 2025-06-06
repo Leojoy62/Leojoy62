@@ -1,5 +1,5 @@
 Greetings,
-I am <b>Leonard Joy Mridha</b> , a professional Full Stack Engineer (MERN Stack) who is passionate about making error-free websites with 100% client satisfaction. I always try to keep myself updated with the latest technology trends. I love to read news related to current technology. I interact with the programming and technological community via social media. I always try to share my thoughts and acknowledge other people's opinions relevant to current technology. <b>"QUICK ADAPTIBILITY"</b> is my strength.
+I am <b>Leonard Joy Mridha</b> , a professional Full Stack Engineer who is passionate about making error-free websites with 100% client satisfaction. I always try to keep myself updated with the latest technology trends. I love to read news related to current technology. I interact with the programming and technological community via social media. I always try to share my thoughts and acknowledge other people's opinions relevant to current technology. <b>"QUICK ADAPTIBILITY"</b> is my strength.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/leojoy62) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leojoy62) 
